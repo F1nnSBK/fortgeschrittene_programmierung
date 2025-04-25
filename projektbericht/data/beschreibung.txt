@@ -1,0 +1,39 @@
+Dieser Datensatz enthält Kennzahlen und Merkmale von Nutzern sozialer Medien, die helfen, das Nutzerverhalten und die Abhängigkeit von Plattformen besser zu verstehen. 
+
+Die Fragestellung:
+„Welche Faktoren beeinflussen die Abhängigkeit von Social Media am meisten für die unterschiedlichen Plattformen?“
+
+
+
+
+Die folgenden Variablen sind enthalten:
+
+UserID: 
+Eindeutige Kennung, die jedem Nutzer zugewiesen wird.
+
+Gender:
+Das Geschlecht des Nutzers (z. B. männlich, weiblich, divers).
+
+Age: 
+Das Alter des Nutzers.
+
+Income:
+Das Einkommensniveau des Nutzers (z. B. niedrig, mittel, hoch).
+
+Profession:
+Der Beruf des Nutzers (z. B. Ingenieur, Lehrer, Student).
+
+Demographics:
+Die geografische Lage des Nutzers.
+
+Platform:
+Die Plattform, auf der der Nutzer aktiv ist (z. B. Facebook, Instagram, Twitter).
+
+Location:
+Das Land, von dem der Nutzer aus auf das soziale Netzwerk zugreift.
+
+Addiction Level:
+Das Maß der Abhängigkeit des Nutzers von der Plattform (1 bis 10).
+
+Self Control:
+Die Fähigkeit des Nutzers, seine Nutzung der Plattform zu steuern (1 bis 10).
